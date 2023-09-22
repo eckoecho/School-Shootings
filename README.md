@@ -30,6 +30,13 @@ The most school shootings happen in California and Florida.
 The average age of shooter1 has changed over the years from ~17 to ~21 years old.
 ![Average Age over the Years](/Images/screenshot3.png)
 
+## Types of Shootings
+
+The large majority of these shootings are targeted towards someone.
+
+![Types of Shootings](/Images/screenshot3.png)
+
+
 ## Seasonal Shootings
 
 There is an observable seasonal trend in school shootings. Dividing school shooting that occured by the quarters , there are more incidents in the first quarter of the year.
