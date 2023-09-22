@@ -32,19 +32,13 @@ The average age of shooter1 has changed over the years from ~17 to ~21 years old
 
 ## Seasonal Shootings
 
-The average age of shooter1 has changed over the years from ~17 to ~21 years old.
-
-![Seasonal Shootings](/Images/screenshot4.png)
-
-## Types of Shootings
-
 The large majority of these shootings are targeted towards someone.
 
 ![Types of Shootings](/Images/screenshot5.png)
 ![Types of Shootings](/Images/screenshot5.5.png)
 
 
-##
+## Presence of Resource Officer
 
 ![This](/Images/screenshot6.png)
 
