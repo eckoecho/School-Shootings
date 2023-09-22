@@ -41,6 +41,10 @@ The average age of shooter1 has changed over the years from ~17 to ~21 years old
 The large majority of these shootings are targeted towards someone.
 
 ![Types of Shootings](/Images/screenshot5.png)
+![Types of Shootings](/Images/screenshot5.5.png)
 
 
 ##
+
+![This](/Images/screenshot6.png)
+
