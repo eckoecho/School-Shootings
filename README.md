@@ -5,7 +5,7 @@ I've showcased several Tableau Dashboards utilizing the data reported by The Was
 
 
 
-My goal of this analysis is to help the community to understand the various aspects that play crucial roles in school shootings in communities. The target is to highlight the patterns in school shootings over two decades to disern the profile and methodology of these shooter. My process is to target the year and month to find any seasonality. I ask and answer pointed questions to get an overall makeup of Chicago crimes. Communities can use this analysis to take action towards prevention and legislation. 
+My goal of this analysis is to help the community to understand the various aspects that play crucial roles in school shootings in communities. The target is to highlight the patterns in school shootings over two decades to disern the profile and methodology of these shooters. My process is dive into data from 1999 to 2023, with predictions for the next 4 years. I look at features allow us to see solutions that decrease these numbers. Communities can use this analysis to take action towards prevention and legislation. 
 
 
 
