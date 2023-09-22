@@ -32,13 +32,15 @@ The average age of shooter1 has changed over the years from ~17 to ~21 years old
 
 ## Seasonal Shootings
 
-The large majority of these shootings are targeted towards someone.
+There is an observable seasonal trend in school shootings. Dividing school shooting that occured by the quarters , there are more incidents in the first quarter of the year.
 
 ![Types of Shootings](/Images/screenshot5.png)
 ![Types of Shootings](/Images/screenshot5.5.png)
 
 
 ## Presence of Resource Officer
+
+There is a correlation between the presence of a resource officer at a school and the number of casualties in school shootings. A school with a resource officer has less casualities.
 
 ![This](/Images/screenshot6.png)
 
